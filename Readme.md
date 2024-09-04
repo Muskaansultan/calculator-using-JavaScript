@@ -9,6 +9,9 @@ Clear and Error Handling: Features include a 'clear' button to reset the calcula
 Technologies Used:
 
 HTML: To structure the calculator’s layout and buttons.
+
 CSS: For styling and enhancing the visual appeal of the calculator.
+
 JavaScript: To implement the core functionality, including mathematical operations and input handling.
+
 This project demonstrates the integration of JavaScript with HTML and CSS to create an interactive and practical tool directly within a web page.
