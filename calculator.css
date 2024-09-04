@@ -1,0 +1,60 @@
+#calculator{
+    border: 1px solid rgb(25, 25, 25);
+    padding: 30px 15px;
+    width: 250px;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgb(29, 29, 29);
+    border-radius: 5px;
+    filter: drop-shadow(12px 15px 10px #757575);
+    box-shadow: 10px 20px 20px 10px rgb(41, 41, 41) inset;
+    
+}
+#display{
+    font-size: 30px;
+    margin: auto;
+    width: 240px;
+    padding: 15px 0px;
+    border: 1px solid rgb(36, 36, 36);
+    background-color: rgb(104, 104, 104);
+    color: aliceblue;
+    border-radius:2px ;
+    box-shadow: 20px 20px 50px 10px rgb(71, 64, 64) inset;
+
+
+}
+#button-container{
+    margin:5px 0px ;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    
+}
+.button{
+    background-color: rgb(104, 104, 104);
+    font-size: large;
+    padding: 0px;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border: 1px solid rgb(36, 36, 36);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 50%;
+    box-shadow: 10px 20px 20px 10px rgb(41, 41, 41) inset;
+}
+.button1{
+    background-color: rgb(255, 153, 1);
+    font-size: large;
+    padding: 0px;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border: 1px solid rgb(36, 36, 36);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 50%;
+    box-shadow: 10px 20px 20px 10px rgb(255, 111, 0) inset;
+}
